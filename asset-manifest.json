@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React-Navbar-Practice/static/css/main.cda9c838.chunk.css",
+    "main.js": "/React-Navbar-Practice/static/js/main.1878a0e4.chunk.js",
+    "main.js.map": "/React-Navbar-Practice/static/js/main.1878a0e4.chunk.js.map",
+    "runtime-main.js": "/React-Navbar-Practice/static/js/runtime-main.01fa0b35.js",
+    "runtime-main.js.map": "/React-Navbar-Practice/static/js/runtime-main.01fa0b35.js.map",
+    "static/js/2.fd5fd06f.chunk.js": "/React-Navbar-Practice/static/js/2.fd5fd06f.chunk.js",
+    "static/js/2.fd5fd06f.chunk.js.map": "/React-Navbar-Practice/static/js/2.fd5fd06f.chunk.js.map",
+    "index.html": "/React-Navbar-Practice/index.html",
+    "static/css/main.cda9c838.chunk.css.map": "/React-Navbar-Practice/static/css/main.cda9c838.chunk.css.map",
+    "static/js/2.fd5fd06f.chunk.js.LICENSE.txt": "/React-Navbar-Practice/static/js/2.fd5fd06f.chunk.js.LICENSE.txt",
+    "static/media/lightbulb-regular.f46eecaa.svg": "/React-Navbar-Practice/static/media/lightbulb-regular.f46eecaa.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01fa0b35.js",
+    "static/js/2.fd5fd06f.chunk.js",
+    "static/css/main.cda9c838.chunk.css",
+    "static/js/main.1878a0e4.chunk.js"
+  ]
+}
