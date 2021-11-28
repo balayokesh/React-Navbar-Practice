@@ -1,0 +1,63 @@
+#header {
+    display: flex;
+    justify-content: center;
+}
+#hiddenNav {
+    display: none;
+}
+
+#navbar {
+    display: flex;
+    position: fixed;
+    justify-content: space-between;
+    width: 100vw;
+    border-bottom: 5px solid rgb(71, 68, 68);
+}
+#navbar :nth-child(1) {
+    width: 70px;
+    height: 70px;
+    margin: 15px;
+    border-radius: 50%;
+}
+#navbar :nth-child(3) {
+    width: 30px;
+    height: 30px;
+    margin: 35px;
+    border-radius: 50%;
+    padding: 5px;
+}
+#navbar h1 {
+    margin: 25px 15px 0 15px;
+}
+
+#navbar-dark {
+    background: #000;
+    color: #fff;
+    display: flex;
+    position: fixed;
+    justify-content: space-between;
+    width: 100vw;
+    border-bottom: 5px solid rgb(71, 68, 68);
+}
+#navbar-dark :nth-child(1) {
+    width: 70px;
+    height: 70px;
+    margin: 15px;
+    border-radius: 50%;
+}
+#navbar-dark :nth-child(3) {
+    width: 30px;
+    height: 30px;
+    padding: 5px;
+    background: #fff;   
+    margin: 35px;
+    border-radius: 50%;
+}
+#navbar-dark h1 {
+    margin: 25px 15px 0 15px;
+}
+
+#expand {
+    width: 20px;
+    align-self: flex-end;
+}
